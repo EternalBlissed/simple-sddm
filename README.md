@@ -1,6 +1,6 @@
-## My Fork of [Jakoolits Simple SDDM Theme](https://github.com/JaKooLit/simple-sddm)
+## My Fork of [Jakoolits Simple SDDM Theme](https://github.com/JaKooLit/simple-sddm) used for my NixOS 
 
-You can use it as a package here (v1.0.1)
+You can use it as a nix package here (v1.0.1)
 
 ```nix
 { pkgs }:
